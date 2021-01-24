@@ -1,0 +1,16 @@
+.center {
+    text-align: center;
+    color: orangered;
+  }
+
+  .align {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+   
+  p.para1 {
+    text-align: right;
+    color:peru;
+  }
+ 
